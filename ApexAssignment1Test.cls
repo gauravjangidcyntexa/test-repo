@@ -1,4 +1,4 @@
-@isTestpublicclassApexAssignment1Test{
+@isTestpublicclassApexAssignmentTest{
   @isTeststaticvoidtestIsPalindrome(){
     //PositiveTestCaseSystem.assert(ApexAssignment1.isPalindrome('level'));//NegativeTestCaseSystem.assert(!ApexAssignment1.isPalindrome('hello'));
   }@isTeststaticvoidtestSumOfDigits(){
